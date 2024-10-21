@@ -1,0 +1,25 @@
+Capturing on device: eth0
+
+Packet captured:
+Source IP: 192.168.0.10
+Destination IP: 192.168.0.1
+Protocol: TCP
+Source Port: 443
+Destination Port: 54920
+Payload: 16 03 03 00 8b 02 00 00 87 03 03 5e 7a ...
+
+Packet captured:
+Source IP: 10.0.0.5
+Destination IP: 8.8.8.8
+Protocol: UDP
+Source Port: 12345
+Destination Port: 53
+Payload: ab cd ef 01 23 45 67 ...
+
+Packet captured:
+Source IP: 172.16.0.2
+Destination IP: 172.16.0.3
+Protocol: TCP
+Source Port: 22
+Destination Port: 51515
+Payload: No payload
