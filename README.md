@@ -1,6 +1,6 @@
 # PRODIGY_CS_05
 
-# Packet Sniffer in C++
+# Packet Sniffer 
 
 This project is a simple packet sniffer written in C++ using the libpcap library. It captures network packets from a specified interface, analyzes them, and displays important details like source/destination IP addresses, ports, protocol, and the packet payload in hexadecimal format.
 
